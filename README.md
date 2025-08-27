@@ -1,10 +1,10 @@
 ## <h3 align="center">
   
-  <p align="center"><img src="https://img.shields.io/badge/WELCOME%20TO -AADI PROJECT-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
+  <p align="center"><img src="https://img.shields.io/badge/WELCOME%20TO -DEVIL PROJECT-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
   
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&font-weight=bold&size=20&color=FFFF00&background=FF0000&center=true&vCenter=true&width=400&height=60&lines=HELLO+FRIENDS+I'M+MR+AADI+BABU+🙂+🤞;AADI-BABU+PROGRAMMING;AADI+BABU-API;THANKYOU+FOR+USING+AADI+PROJECT&border=20px+solid+000000&speed=100)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&font-weight=bold&size=20&color=FFFF00&background=FF0000&center=true&vCenter=true&width=400&height=60&lines=HELLO+FRIENDS+I'M+MR+DEVIL+XD+🙂+🤞;DEVIL-XD+PROGRAMMING;DEVIL+XD-API;THANKYOU+FOR+USING+AADI+PROJECT&border=20px+solid+000000&speed=100)](https://git.io/typing-svg)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-red?style=for-the-badge&logo=whatsapp)](https://wa.me/+919548950035)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/aadi.babu123)
@@ -22,7 +22,7 @@ npm install aadi-babu-api
 npm start
 ```
 
-## AADI PROJECT FCA 
+## DEVIL PROJECT FCA 
 ```js
 const login = require("aadi-babu-api");
 ```
